@@ -1,0 +1,10 @@
+Haushaltsbuch: Hinweise zu Drittkomponenten
+
+Diese App liefert folgende Komponenten unverändert mit aus:
+
+1. Chart.js 4.4.1 (Datei chart.umd.min.js), MIT-Lizenz, siehe Chart.js-LICENSE.md
+   https://www.chartjs.org
+2. SheetJS Community Edition 0.18.5 (Datei xlsx.full.min.js), Apache License 2.0, siehe SheetJS-LICENSE.txt
+   https://sheetjs.com
+3. Schrift Figtree (Dateien fonts/figtree-latin.woff2 und fonts/figtree-latin-ext.woff2), SIL Open Font License 1.1, siehe Figtree-OFL.txt
+   https://github.com/erikdkennedy/figtree
